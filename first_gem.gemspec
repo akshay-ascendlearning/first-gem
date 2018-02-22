@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "first_gem"
   spec.version       = FirstGem::VERSION
   spec.authors       = ["Akshaya Kumar"]
-  spec.email         = ["“Akshaya.Kumar@ascendlearning.com"]
+  spec.email         = ["akshaysn1991@gmail.com"]
 
   spec.summary       = %q{Write a short summary, because RubyGems requires one.}
   spec.description   = %q{Write a longer description or delete this line.}
